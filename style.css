@@ -1,0 +1,22 @@
+.adin{
+    height: 300px;
+    width: 300px;
+}
+header{
+    text-align: center;
+    background-color: green;
+}
+.dva{
+    height: 400px;
+    width: 400px;
+}
+main{
+    background-color: aqua;
+}
+footer{
+    background-color: aquamarine;
+    text-align: center;
+}
+p{
+    font-size: xx-large;
+}
